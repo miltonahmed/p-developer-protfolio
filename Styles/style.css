@@ -1,0 +1,23 @@
+/* Common Css  */
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* Variable  */
+:root{
+    --font-family:'Open Sans', sans-serif;
+    --font-Regular:400;
+    --font-Medium:500;
+    --font-SemiBold:600;
+    --font-Bold:700;
+    --font-ExtraBold:800;
+    --color-orange:#FD6E0A;
+    --color-dark01:#181818;
+    --color-dark02:#474747;
+    --color-dark03:#757575;
+}
